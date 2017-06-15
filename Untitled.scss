@@ -1,13 +1,15 @@
 // Reassign color vars to semantic color scheme
-$brand-primary:             #00b0eb;
+$brand-primary:             #3B5998;
+
+
 $brand-success:             #5cb85c;
-$brand-info:                #5bc0de;
+
 $brand-warning:             #000;
 
 
 
 
-$brand-danger:              #d9534f;
+
 $brand-inverse:             #292b2c;
 
 
@@ -51,4 +53,8 @@ $display4-size: 3.5 * $font-size-base;
 $border-radius: .25rem;
 
 
+
+
+$brand-info: #FFC150;
+$brand-danger: #D62221;
 @import 'bootstrap-4.0.0-alpha.6';
